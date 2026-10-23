@@ -122,8 +122,10 @@ A popular restaurant wants to manage reservations, orders, and billing.
 - Waiters assigned to serve reservations.
 
 ### ER Diagram:
-<img width="1600" height="837" alt="WhatsApp Image 2026-07-27 at 21 51 15" src="https://github.com/user-attachments/assets/1d13f119-7082-4ffa-99b1-8246ac743073" />
-![Uploading WhatsApp Image 2026-10-22 at 8.57.52 PM.jpeg…]()
+
+<img width="1067" height="545" alt="image" src="https://github.com/user-attachments/assets/67b82239-4065-4764-a976-90cc45c69679" />
+<img width="1600" height="906" alt="p" src="https://github.com/user-attachments/assets/0355a55e-fcd6-464f-a28b-fd5d7394590f" />
+
 
 
 
