@@ -105,10 +105,9 @@ CREATE TABLE Table_Name (
 
 **Question 1**
 --
--- Paste Question 1 here
+```
+<img width="1447" height="587" alt="image" src="https://github.com/user-attachments/assets/39c6cbd4-8492-4b4e-9fd8-25542de7bdaa" />
 
-```sql
--- Paste your SQL code below for Question 1
 ```
 
 **Output:**
@@ -117,10 +116,8 @@ CREATE TABLE Table_Name (
 
 **Question 2**
 ---
--- Paste Question 2 here
-
-```sql
--- Paste your SQL code below for Question 2
+```
+<img width="1432" height="727" alt="image" src="https://github.com/user-attachments/assets/15d16677-981b-4f17-82ac-9df4b0a7841c" />
 ```
 
 **Output:**
@@ -129,10 +126,9 @@ CREATE TABLE Table_Name (
 
 **Question 3**
 ---
--- Paste Question 3 here
+```
+<img width="1437" height="698" alt="image" src="https://github.com/user-attachments/assets/6a60f09a-fb2c-48d4-8982-de61c6b378d9" />
 
-```sql
--- Paste your SQL code below for Question 3
 ```
 
 **Output:**
@@ -141,10 +137,9 @@ CREATE TABLE Table_Name (
 
 **Question 4**
 ---
--- Paste Question 4 here
+```
+<img width="1477" height="770" alt="image" src="https://github.com/user-attachments/assets/1f4a5c1e-0885-430b-979f-efa640f2d349" />
 
-```sql
--- Paste your SQL code below for Question 4
 ```
 
 **Output:**
@@ -153,10 +148,9 @@ CREATE TABLE Table_Name (
 
 **Question 5**
 ---
--- Paste Question 5 here
+```
+<img width="1450" height="685" alt="image" src="https://github.com/user-attachments/assets/57aa9e47-8647-4f57-8624-a65357fa49e3" />
 
-```sql
--- Paste your SQL code below for Question 5
 ```
 
 **Output:**
@@ -165,10 +159,9 @@ CREATE TABLE Table_Name (
 
 **Question 6**
 ---
--- Paste Question 6 here
+```
+<img width="1113" height="722" alt="image" src="https://github.com/user-attachments/assets/2ecd5a4f-6dda-461d-9b2f-280b3fdf8b3d" />
 
-```sql
--- Paste your SQL code below for Question 6
 ```
 
 **Output:**
@@ -176,11 +169,9 @@ CREATE TABLE Table_Name (
 ![Output6](output.png)
 
 **Question 7**
----
--- Paste Question 7 here
+```
+<img width="1196" height="697" alt="image" src="https://github.com/user-attachments/assets/df8bb80b-4f4a-4a39-b941-35acc0979738" />
 
-```sql
--- Paste your SQL code below for Question 7
 ```
 
 **Output:**
@@ -189,10 +180,9 @@ CREATE TABLE Table_Name (
 
 **Question 8**
 ---
--- Paste Question 8 here
+```
+<img width="1337" height="777" alt="image" src="https://github.com/user-attachments/assets/ab97d547-f567-420d-b844-f2a52f2db7f5" />
 
-```sql
--- Paste your SQL code below for Question 8
 ```
 
 **Output:**
@@ -201,10 +191,9 @@ CREATE TABLE Table_Name (
 
 **Question 9**
 ---
--- Paste Question 9 here
+```
+<img width="1215" height="721" alt="image" src="https://github.com/user-attachments/assets/d5c4c2a9-081b-49b4-ae72-9c98e96d03df" />
 
-```sql
--- Paste your SQL code below for Question 9
 ```
 
 **Output:**
@@ -213,10 +202,9 @@ CREATE TABLE Table_Name (
 
 **Question 10**
 ---
--- Paste Question 10 here
+```
+<img width="1420" height="763" alt="image" src="https://github.com/user-attachments/assets/bb92ca01-af18-4060-ba54-586e54f80615" />
 
-```sql
--- Paste your SQL code below for Question 10
 ```
 
 **Output:**
