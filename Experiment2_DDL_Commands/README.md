@@ -104,108 +104,89 @@ CREATE TABLE Table_Name (
 ```
 
 **Question 1**
---
-```
+
 <img width="1447" height="587" alt="image" src="https://github.com/user-attachments/assets/39c6cbd4-8492-4b4e-9fd8-25542de7bdaa" />
 
-```
 
 **Output:**
 
 ![Output1](output.png)
 
 **Question 2**
----
-```
+
 <img width="1432" height="727" alt="image" src="https://github.com/user-attachments/assets/15d16677-981b-4f17-82ac-9df4b0a7841c" />
-```
+
 
 **Output:**
 
 ![Output2](output.png)
 
 **Question 3**
----
-```
+
 <img width="1437" height="698" alt="image" src="https://github.com/user-attachments/assets/6a60f09a-fb2c-48d4-8982-de61c6b378d9" />
 
-```
 
 **Output:**
 
 ![Output3](output.png)
 
 **Question 4**
----
-```
+
 <img width="1477" height="770" alt="image" src="https://github.com/user-attachments/assets/1f4a5c1e-0885-430b-979f-efa640f2d349" />
 
-```
 
 **Output:**
 
 ![Output4](output.png)
 
 **Question 5**
----
-```
+
 <img width="1450" height="685" alt="image" src="https://github.com/user-attachments/assets/57aa9e47-8647-4f57-8624-a65357fa49e3" />
 
-```
 
 **Output:**
 
 ![Output5](output.png)
 
 **Question 6**
----
-```
+
 <img width="1113" height="722" alt="image" src="https://github.com/user-attachments/assets/2ecd5a4f-6dda-461d-9b2f-280b3fdf8b3d" />
 
-```
+
 
 **Output:**
 
 ![Output6](output.png)
 
 **Question 7**
-```
+
 <img width="1196" height="697" alt="image" src="https://github.com/user-attachments/assets/df8bb80b-4f4a-4a39-b941-35acc0979738" />
 
-```
 
 **Output:**
 
 ![Output7](output.png)
 
 **Question 8**
----
-```
+
 <img width="1337" height="777" alt="image" src="https://github.com/user-attachments/assets/ab97d547-f567-420d-b844-f2a52f2db7f5" />
 
-```
 
 **Output:**
 
 ![Output8](output.png)
 
 **Question 9**
----
-```
 <img width="1215" height="721" alt="image" src="https://github.com/user-attachments/assets/d5c4c2a9-081b-49b4-ae72-9c98e96d03df" />
 
-```
 
 **Output:**
 
 ![Output9](output.png)
 
 **Question 10**
----
-```
 <img width="1420" height="763" alt="image" src="https://github.com/user-attachments/assets/bb92ca01-af18-4060-ba54-586e54f80615" />
 
-```
 
 **Output:**
 
