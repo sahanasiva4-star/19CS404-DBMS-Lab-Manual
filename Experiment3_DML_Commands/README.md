@@ -46,120 +46,82 @@ Used to retrieve records from a table.
 SELECT column1, column2 FROM table_name WHERE condition;
 ```
 **Question 1**
---
--- Paste Question 1 here
+<img width="1467" height="778" alt="image" src="https://github.com/user-attachments/assets/f47f4f09-3236-4aaa-a2dc-b023821038a2" />
 
-```sql
--- Paste your SQL code below for Question 1
-```
 
 **Output:**
 
 ![Output1](output.png)
 
 **Question 2**
----
--- Paste Question 2 here
+<img width="1473" height="757" alt="image" src="https://github.com/user-attachments/assets/67ea4002-2839-44a8-8449-b80d1a077bdb" />
 
-```sql
--- Paste your SQL code below for Question 2
-```
 
 **Output:**
 
 ![Output2](output.png)
 
 **Question 3**
----
--- Paste Question 3 here
+<img width="1488" height="811" alt="image" src="https://github.com/user-attachments/assets/5558c1ab-a885-42ad-b46a-4947ba591b9e" />
 
-```sql
--- Paste your SQL code below for Question 3
-```
 
 **Output:**
 
 ![Output3](output.png)
 
 **Question 4**
----
--- Paste Question 4 here
+<img width="1426" height="787" alt="image" src="https://github.com/user-attachments/assets/ef65512d-7887-47d4-845d-d5c89099a85b" />
+<img width="1440" height="503" alt="image" src="https://github.com/user-attachments/assets/31a49eb1-ffed-4b09-9459-b565a2175e38" />
 
-```sql
--- Paste your SQL code below for Question 4
-```
 
 **Output:**
 
 ![Output4](output.png)
 
 **Question 5**
----
--- Paste Question 5 here
+<img width="1475" height="795" alt="image" src="https://github.com/user-attachments/assets/9a0cf3d3-425b-49b0-ba25-9b1e01862ffa" />
 
-```sql
--- Paste your SQL code below for Question 5
-```
 
 **Output:**
 
 ![Output5](output.png)
 
 **Question 6**
----
--- Paste Question 6 here
+<img width="1412" height="712" alt="image" src="https://github.com/user-attachments/assets/70763289-1ba9-42f0-bd3f-6178ca6cc608" />
 
-```sql
--- Paste your SQL code below for Question 6
-```
 
 **Output:**
 
 ![Output6](output.png)
 
 **Question 7**
----
--- Paste Question 7 here
+<img width="1386" height="412" alt="image" src="https://github.com/user-attachments/assets/9400b91d-228d-4bdc-9f74-a1bdffd83c18" />
 
-```sql
--- Paste your SQL code below for Question 7
-```
 
 **Output:**
 
 ![Output7](output.png)
 
 **Question 8**
----
--- Paste Question 8 here
+<img width="1431" height="430" alt="image" src="https://github.com/user-attachments/assets/fb03a7d3-56d5-478f-b36b-72a989526777" />
+<img width="957" height="222" alt="image" src="https://github.com/user-attachments/assets/97774663-fe36-41e3-acc5-4fa45646bac7" />
 
-```sql
--- Paste your SQL code below for Question 8
-```
 
 **Output:**
 
 ![Output8](output.png)
 
 **Question 9**
----
--- Paste Question 9 here
+<img width="1458" height="818" alt="image" src="https://github.com/user-attachments/assets/ed2e3bf3-af12-481e-bd57-98487afdf434" />
 
-```sql
--- Paste your SQL code below for Question 9
-```
 
 **Output:**
 
 ![Output9](output.png)
 
 **Question 10**
----
--- Paste Question 10 here
+<img width="1475" height="362" alt="image" src="https://github.com/user-attachments/assets/d6eb2bfe-fff3-4bc4-af5a-38f35d76d9fe" />
 
-```sql
--- Paste your SQL code below for Question 10
-```
 
 **Output:**
 
